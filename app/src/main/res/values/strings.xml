@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ColorFinder</string>
+
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="error_green_color">You can only able to define green color value between 0 &#8211; 255</string>
+    <string name="error_green_color_empty">Green color value should not be empty</string>
+    <string name="error_red_color">You can only able to define red color value between 0 &#8211; 255</string>
+    <string name="error_red_color_empty">Red color value should not be empty</string>
+    <string name="error_blue_color">You can only able to define blue color value between 0 &#8211; 255</string>
+    <string name="error_blue_color_empty">Blue color value should not be empty</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
